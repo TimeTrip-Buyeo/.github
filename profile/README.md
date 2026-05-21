@@ -1,15 +1,14 @@
 <div align="left">
-
-# ⏳ TimeTrip
-
-### 1400년 전 백제로 떠나는 시간여행  
-부여 AR 역사관광 플랫폼
-
 <br/>
 
 <img src="./github readme.png" width="100%" />
 
 <br/><br/>
+
+# ⏳ TimeTrip
+
+### 1400년 전 백제로 떠나는 시간여행  
+부여 AR 역사관광 플랫폼
 
 ## ✨ 프로젝트 소개
 
