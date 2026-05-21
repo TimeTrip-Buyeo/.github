@@ -114,9 +114,9 @@ TimeTrip은:
 
 | 역할 | 담당 | 담당자 |
 |---|---|---|
-| Frontend | UI/UX · Flutter | [@MunChaerin](https://github.com/MunChaerin)[@leeeemj](https://github.com/leeeemj)[@Yeeun519](https://github.com/Yeeun519) |
-| Backend | API · Database | [@MunChaerin](https://github.com/MunChaerin)[@leeeemj](https://github.com/leeeemj)[@Yeeun519](https://github.com/Yeeun519)  |
-| Design | Branding · AR Experience | [@MunChaerin](https://github.com/MunChaerin)[@leeeemj](https://github.com/leeeemj)[@Yeeun519](https://github.com/Yeeun519)  |
+| Frontend | UI/UX · Flutter | [@MunChaerin](https://github.com/MunChaerin) [@leeeemj](https://github.com/leeeemj) [@Yeeun519](https://github.com/Yeeun519) |
+| Backend | API · Database | [@MunChaerin](https://github.com/MunChaerin) [@leeeemj](https://github.com/leeeemj) [@Yeeun519](https://github.com/Yeeun519)  |
+| Design | Branding · AR Experience | [@MunChaerin](https://github.com/MunChaerin) [@leeeemj](https://github.com/leeeemj) [@Yeeun519](https://github.com/Yeeun519)  |
 
 <br/>
 
