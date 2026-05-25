@@ -75,7 +75,7 @@ TimeTrip은:
 
 ### Backend
 - Spring Boot
-- MySQL
+- PostgreSQL
 
 ### AR / Data
 - ARCore
